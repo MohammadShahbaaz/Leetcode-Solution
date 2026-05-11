@@ -12,5 +12,5 @@ class Solution(object):
 
 
 obj = Solution()
-print(obj.twoSum([1,2,3,4,5,6,7],8))
-print([1,2,3,4,5,6,7])
+print(obj.twoSum([1,2,3],5))
+print([1,2,3])
