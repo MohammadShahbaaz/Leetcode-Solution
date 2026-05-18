@@ -10,7 +10,3 @@ class Solution(object):
         return nums1
         
 
-obj = Solution()
-print(obj.merge([1,2,3],3,[2,5,6],3))
-
-[1,2,3,4,0,0,0] m=4 [5,6,7] n = 3
