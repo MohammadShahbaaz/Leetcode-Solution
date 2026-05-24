@@ -11,3 +11,6 @@ class Solution(object):
                 g = p 
             
         return g
+
+sub = Solution()
+print(sub.maxProfit([1,2,3,47,80,9]))

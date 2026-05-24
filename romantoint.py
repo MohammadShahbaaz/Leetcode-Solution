@@ -9,7 +9,5 @@ class Solution(object):
                 ans += r[s[i]]
         return ans
 
-
-
-            
-        
+sub = Solution()
+print(sub.romanToInt("XVII"))
